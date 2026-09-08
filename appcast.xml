@@ -4,6 +4,23 @@
         <title>biogear_viewer</title>
         <item>
             <title>1.1.0-beta</title>
+            <pubDate>Wed, 09 Sep 2026 01:31:06 +0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>276</sparkle:version>
+            <sparkle:shortVersionString>1.1.0-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/Biogear-Microscope-Viewer-1.1.0-beta-b276.zip" length="142108587" type="application/octet-stream" sparkle:edSignature="85mYGQaKF36h5/KETi1FCSmJLl3F3Ke0B0SvOINnDulWtP1r4U+8t8eI4G2IGxLcmnH4tOSE9Xk5bArfgZ41AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/biogear_viewer276-271.delta" sparkle:deltaFrom="271" length="132286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kwIQVbUojaGl6nJ2ozMCjjppoFwseOSS0jdGTP5zRHMSTbnar34EHLMSbX9sFntkCNfBNJ6Mnlh5dXY3JEl5Bw=="/>
+                <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/biogear_viewer276-160.delta" sparkle:deltaFrom="160" length="342382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zVcU2c3aHmh7RO2rQ8j+lCgwBlByDMxONfWuEBZw7LI8wvkVo468rwJl9Uq3dpoDFmvADDBQqwD1tKEcjg1AAw=="/>
+                <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/biogear_viewer276-157.delta" sparkle:deltaFrom="157" length="342454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6yumrGs1JgaQgs3jjyD6cmuBi/hG9IvtIMMWkB3VtZ0Lq5xYscNE3leyjSyM1iSNllODBy9i72B0GMkZ4jN6DQ=="/>
+                <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/biogear_viewer276-122.delta" sparkle:deltaFrom="122" length="468674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eI2h17UkoDXg6i3MZIK88mdLJ7RByHEh4skEUDKwr8T+QYRsEYq+byaCZzlgzlE7YRHDIAHtNtlnEh9xzCPECg=="/>
+                <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/biogear_viewer276-120.delta" sparkle:deltaFrom="120" length="473646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RmAnZtpZEIlRikSj3otSG8NOj6nCXM3LTHj2d05GaAgQ5aESgmKFSKwhH6WDNySiJsZq5+IbjLlLK980RTB6Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1.0-beta</title>
             <pubDate>Tue, 08 Sep 2026 18:12:56 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>271</sparkle:version>
