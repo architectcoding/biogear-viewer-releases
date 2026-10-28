@@ -8,7 +8,7 @@
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>285</sparkle:version>
             <sparkle:shortVersionString>1.1.0-beta</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/Biogear-Microscope-Viewer-1.1.0-beta-b285.zip" length="142720180" type="application/octet-stream" sparkle:edSignature="b5grdEtLu4yGfv0ds3RieEr1s+ho82dwYZr7oDBxmxVZywMlydsXg7ro/QzZY+s/iEcujcgqunuZZFlhq3aSBQ=="/>
             <sparkle:deltas>
@@ -25,7 +25,7 @@
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>282</sparkle:version>
             <sparkle:shortVersionString>1.1.0-beta</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/Biogear-Microscope-Viewer-1.1.0-beta-b282.zip" length="142130401" type="application/octet-stream" sparkle:edSignature="JxmEcaCp7KfFZGzgNMJo/nipgGfG00z+AyXPwbWHfqaR1ypLbNjH2EBBdUKtFFW2xUwhrRbvr5vrqi65WLIaBg=="/>
             <sparkle:deltas>
@@ -42,7 +42,7 @@
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>280</sparkle:version>
             <sparkle:shortVersionString>1.1.0-beta</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/architectcoding/biogear-viewer-releases/releases/download/v1.1.0-beta/Biogear-Microscope-Viewer-1.1.0-beta-b280.zip" length="142129185" type="application/octet-stream" sparkle:edSignature="1eTBhNvwpp/FVWeWGrBtyuLPVAT4sqGOPjIzrfQQdjbb+YlQkKb0lCqqQrm6AprNzruDTdpCSu30uGabStdoBA=="/>
             <sparkle:deltas>
